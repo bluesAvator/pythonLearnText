@@ -1,4 +1,4 @@
-# 字典：dict（全程dictionary），js的map
+# 字典：dict（全称dictionary），js的map
 
 使用键值对存储，具有极快的查找速度
 
